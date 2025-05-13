@@ -10,7 +10,7 @@ Think of it as a README for your own consciousness in an AI‑augmented era: min
 
 ## Quick start
 
-1. Open the [Index](docs/index.md) — a compressed scaffold of the entire codex.
+1. Open the [Index](index.md) — a compressed scaffold of the entire codex.
 2. Pick a lens (Story, Science/Model, or Spirit/Context) and follow outbound links to deeper notes.
 3. Run an Input ⇄ Output exercise with any LLM to ground the concepts in lived experience.
 
@@ -41,12 +41,3 @@ Pull requests are welcome. Offer questions, refactorings, or new drills. Keep th
 ## License
 
 MIT for code snippets; CC‑BY‑SA 4.0 for prose unless noted otherwise.
-
-Provenance:
-
-* 17fb0ac - (HEAD -> main, origin/main) feat: init (46 minutes ago) <Rick Hallett> 17fb0ac0e36b39f0495074f8aa35d2e6782e160e
-
-Project Home: [Oceanheart Ltd](https://www.oceanheart.ai)
-
-- [Symbiotic Intelligence](https://symbiotic-intelligence.org)
-- [Codex](https://codex.so)

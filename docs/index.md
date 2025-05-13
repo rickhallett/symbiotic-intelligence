@@ -59,5 +59,4 @@ Complex adaptive systems emit apparently random discontinuities (black-swan even
 
 ---
 
-**Follow-up question**
-Which domain—Story, Science/Model, Spirit/Context, or the surrender praxis around them—would you like to interrogate more deeply or prototype in a concrete workflow?
+Ask: Which domain—Story, Science/Model, Spirit/Context, or the surrender praxis around them—would you like to interrogate more deeply or prototype in a concrete workflow?
