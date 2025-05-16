@@ -140,4 +140,23 @@ Complex adaptive systems emit apparently random discontinuities (black-swan even
 
 ---
 
+## Further Explorations & Research
+
+The concepts within the Symbiotic Intelligence Codex are supported and expanded upon by ongoing research and application insights. Explore these areas for a deeper understanding:
+
+*   **Symbiotic Intelligence Framework:** Introduces Kai's model for human-AI partnership, emphasizing rapid iterative loops across three lenses—Story (prompting), Science/Model (AI engine), and Spirit/Context (latent space)—to accelerate cognition and learning. [Read more...](research/learning/symbiotic_intelligence.md)
+*   **Kai's Symbiotic Intelligence Framework (Detailed):** Provides a deeper conceptual model for human-AI partnership, focusing on iterative loops across Story (prompting), Science/Model (AI engine), and Spirit/Context (latent space), and its implications for teaching effective AI use. [Read more...](research/learning/framework.md)
+*   **Three Framework Lenses (Story, Science/Model, Spirit/Context):** Details the core components of the Symbiotic Intelligence Codex, explaining how narrative (Story), execution (Science/Model), and latent possibilities (Spirit/Context) interact to guide human-AI partnership. [Read more...](research/learning/3_framework_lenses.md)
+*   **Symbiotic Acceleration in Learning:** Details how the rapid human-AI feedback loop, enabled by technical advancements like large context windows and efficient fine-tuning, accelerates knowledge acquisition and skill development across different learning stages. [Read more...](research/learning/symbiotic_acceleration.md)
+*   **Technical Advancements:** Explores key technological breakthroughs like larger context windows, efficient fine-tuning (e.g., LoRA), and interactive environments that accelerate the human-AI input/output loop. [Read more...](research/learning/technical_advancements.md)
+*   **AI and Human Working Memory:** Explains how AI, especially with large context windows, acts as an extension of human working memory, processing vast information and reducing cognitive load for enhanced synthesis and systems thinking. [Read more...](research/learning/working_memory.md)
+*   **Accelerated Problem-Solving:** Highlights how the rapid human-AI interaction loop dramatically increases the speed and throughput of problem-solving and learning, enabling more iterations and faster task completion. [Read more...](research/learning/problem_solving.md)
+*   **Transforming Pedagogy with AI:** Examines how AI is reshaping education by enabling personalized, iterative learning and changing instructor roles, while also presenting challenges like potential skill erosion and over-reliance. [Read more...](research/learning/transforming_pedagogy.md)
+*   **AI Tutoring Benefits:** Outlines how AI tutors enhance learning by providing 24/7 adaptive support, instant iterative feedback, and personalized dialogue, leading to increased engagement and accelerated learning outcomes. [Read more...](research/learning/ai_tutoring.md)
+*   **Potential Drawbacks of Frequent AI Use:** Discusses risks such as overdependence, skill erosion, loss of intuition, and the reinforcement of biases due to the accelerating AI input/output loop. [Read more...](research/learning/drawbacks_frequency.md)
+*   **On-Ramp Clarity:** Focuses on refining the initial user experience by identifying and addressing points of hesitation or confusion in introductory materials, crucial for smooth adoption and iteration. [Read more...](research/learning/on_ramp.md)
+*   **Accelerating the Human–AI Input⇄Output Loop in Learning and Cognition:** [View PDF](research/learning/Accelerating%20the%20Human%E2%80%93AI%20Input%E2%8F%B2Output%20Loop%20in%20Learning%20and%20Cognition.pdf)
+
+---
+
 Ask: Which domain—Story, Science/Model, Spirit/Context, or the surrender praxis around them—would you like to interrogate more deeply or prototype in a concrete workflow?
