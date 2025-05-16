@@ -1,4 +1,5 @@
 site_name: Symbiotic Intelligence - Codex
+site_url: https://rickhallett.github.io/symbiotic-intelligence/
 docs_dir: docs
 theme:
   name: material
@@ -27,7 +28,40 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.footer
+    - navigation.expand
+    - content.tooltips
   language: en
+  icon:
+    logo: material/sprout
+    repo: fontawesome/brands/github
+  font:
+    text: Roboto
+    code: Roboto Mono
+extra_css:
+  - assets/css/custom.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rickhallett/symbiotic-intelligence
+    - icon: material/web
+      link: https://www.oceanheart.ai
+      name: Oceanheart Ltd
+  generator: false
 plugins:
   - search
   - awesome-pages 

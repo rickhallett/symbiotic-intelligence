@@ -1,0 +1,172 @@
+/* Evolution-themed custom styles */
+
+/* Gradient background that suggests growth/evolution */
+.md-main {
+  background: linear-gradient(135deg, rgba(240, 255, 240, 0.8) 0%, rgba(220, 255, 250, 0.9) 100%);
+}
+
+/* Dark mode gradient */
+[data-md-color-scheme="slate"] .md-main {
+  background: linear-gradient(135deg, rgba(20, 40, 30, 0.8) 0%, rgba(25, 45, 50, 0.9) 100%);
+}
+
+/* Custom heading styles with evolutionary accents */
+.md-content h1 {
+  border-bottom: 3px solid transparent;
+  border-image: linear-gradient(to right, teal, purple);
+  border-image-slice: 1;
+  padding-bottom: 0.3em;
+  font-family: "Quicksand", sans-serif;
+}
+
+.md-content h2 {
+  border-left: 4px solid teal;
+  padding-left: 0.5em;
+  font-family: "Quicksand", sans-serif;
+}
+
+.md-content h3::before {
+  content: "→ ";
+  color: teal;
+}
+
+/* Custom blockquote styling */
+.md-content blockquote {
+  border-left: 4px solid teal;
+  background: rgba(0, 128, 128, 0.05);
+  border-radius: 0 4px 4px 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.md-content blockquote:hover {
+  transform: translateX(3px);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Code blocks with a subtle growth effect */
+.md-content pre {
+  border-left: 3px solid teal;
+  transition: all 0.3s ease;
+}
+
+.md-content pre:hover {
+  border-left-width: 5px;
+}
+
+/* Links with growth effect */
+.md-content a {
+  position: relative;
+  text-decoration: none;
+  color: teal;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.md-content a::after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: purple;
+  transition: width 0.3s ease;
+}
+
+.md-content a:hover::after {
+  width: 100%;
+}
+
+.md-content a:hover {
+  color: purple;
+}
+
+/* Lists with evolutionary markers */
+.md-content ul li {
+  list-style-type: none;
+  position: relative;
+  padding-left: 1.5em;
+}
+
+.md-content ul li::before {
+  content: "●";
+  position: absolute;
+  left: 0;
+  color: teal;
+  font-size: 0.8em;
+  transition: all 0.2s ease;
+}
+
+.md-content ul li:hover::before {
+  content: "◉";
+  color: purple;
+}
+
+/* Tables with growth effect */
+.md-content table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid rgba(0, 128, 128, 0.2);
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.md-content table:hover {
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+.md-content table th {
+  background: rgba(0, 128, 128, 0.1);
+  border-bottom: 2px solid teal;
+}
+
+/* Add a subtle pulse animation to navigation items */
+@keyframes subtle-pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.03);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.md-nav__item .md-nav__link--active {
+  color: teal;
+  font-weight: bold;
+  animation: subtle-pulse 3s infinite;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 128, 128, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, teal, purple);
+  border-radius: 4px;
+}
+
+/* Footer with evolutionary quote */
+.md-footer-meta__inner::before {
+  content: '"Evolution is a process of constant branching and expansion." — Stephen Jay Gould';
+  display: block;
+  font-style: italic;
+  text-align: center;
+  padding: 1em 0;
+  font-size: 0.9em;
+  opacity: 0.7;
+}
