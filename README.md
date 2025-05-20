@@ -2,6 +2,11 @@
 
 Welcome to the **Symbiotic Intelligence Codex**—a living guide for humans who want to deepen their partnership with artificial intelligence.
 
+This was the first iteration of thought behind the ["Art of Personal AI" framework](./docs/taopa.md).
+
+
+![The Art of Personal AI diagram](./docs/assets/the-art-of-ai-v1.0-20250520.png)
+
 ## What is this?
 
 This repository is not code in the traditional sense. It is a **hyper‑linked knowledge base** that maps three inseparable lenses—**Story**, **Science/Model**, and **Spirit/Context**—plus the practice of iterative **Input ⇄ Output** loops that accelerate cognition.
@@ -17,7 +22,7 @@ Think of it as a README for your own consciousness in an AI‑augmented era: min
 ## Repository layout
 
 * **index.md** – canonical entry point; acts as table of contents.
-* **taopa.md** – the ["Art of Personal AI" framework](./taopa.md).
+* **taopa.md** – the ["Art of Personal AI" framework](./docs/taopa.md).
 * **/story** – narrative patterns, mythic templates, autobiographical prompts.
 * **/model** – engineering heuristics, reasoning loops, adversarial tests.
 * **/context** – ecological framings, phenomenology, privacy‑scaffold designs.
