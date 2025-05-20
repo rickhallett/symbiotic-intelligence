@@ -139,6 +139,13 @@ Complex, evolving systems sometimes produce surprising breakthroughs (like "blac
 * Complex (flexible): Adaptable and resilient, able to handle uncertainty, like searching for ideas by their meaning rather than exact words.
   Aim for systems that can adapt easily: using modular parts, designs that can evolve, and flexible guidelines instead of rigid restrictions.
 
+**10 Cognitive Offloading → The Abstraction Layer**
+
+* Function: Delegates the fine-grained reasoning and lookup work to the AI so you can operate at a strategically higher altitude—spending your cycles on synthesis, creativity, and decision-making rather than on the plumbing.
+* Human analogue: The way we use writing, calculators, or domain experts: external memory and specialized skill that free our own attention.
+* AI analogue: LLM chain-of-thought, code-generation, retrieval-augmented reasoning—mechanisms that build and traverse detailed structures you don’t have to hold in working memory.
+* Key practice: Continuously choose what to off-load (and what to keep “on-board” for situational awareness); design tight feedback checks (“mental checksums”) so abstraction never drifts into blind trust.
+
 ---
 
 ## Further Explorations & Research
