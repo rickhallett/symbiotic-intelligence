@@ -64,4 +64,7 @@ extra:
   generator: false
 plugins:
   - search
-  - awesome-pages 
+  - awesome-pages
+nav:
+  - Home: index.md
+  - The Art of Personal AI: taopa.md

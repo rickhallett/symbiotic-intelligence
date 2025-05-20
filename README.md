@@ -17,6 +17,7 @@ Think of it as a README for your own consciousness in an AI‑augmented era: min
 ## Repository layout
 
 * **index.md** – canonical entry point; acts as table of contents.
+* **taopa.md** – the ["Art of Personal AI" framework](./taopa.md).
 * **/story** – narrative patterns, mythic templates, autobiographical prompts.
 * **/model** – engineering heuristics, reasoning loops, adversarial tests.
 * **/context** – ecological framings, phenomenology, privacy‑scaffold designs.
